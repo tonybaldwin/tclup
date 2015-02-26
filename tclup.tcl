@@ -1,7 +1,7 @@
 #!/usr/bin/env wish8.5
 
 ##########################################################
-# tclup copyright tony baldwin - tony@baldwinsoftware.com
+# tclup copyright tony baldwin - http://www.tonybaldwin.me
 # quick-n-dirty ftp upload/download tool
 
 #########
@@ -302,7 +302,7 @@ pack .help.out -in .help -side top
 pack .help.inf -in .help -side top
 }
 #########################################################################
-# This program was written by tony baldwin - tony@baldwinsoftware.com
+# This program was written by tony baldwin - http://www.tonybaldwin.me
 # This program is free software; you can redistribute it and/or modify 
 # it under the terms of the GNU General Public License as published by 
 # the Free Software Foundation; either version 2 of the License, or 

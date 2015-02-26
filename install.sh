@@ -27,5 +27,5 @@ echo "To run TclUP, in terminal type tclup, or make an icon/menu item/short cut 
 exit
 
 #####
-# tony baldwin / https://tonybaldwin.info
+# tony baldwin / http://tonybaldwin.me
 #####
