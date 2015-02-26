@@ -8,6 +8,8 @@ TclUP is a quick -n- dirty ftp upload/download tool.
 
 TclUP was created by Anthony Baldwin / http://tonybaldwin.me
 
+TclUP is crossplatform (will run on any system, including GNU/Linux, Mac, BSD, or Windows, so long as it has the required Tcl packages installed).
+
 ------------------
 
 # TclUP requires:
