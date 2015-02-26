@@ -36,7 +36,7 @@ On Windows systems, if you install the ActiveStateTcl, you should be all set.
 For installation, untar the tarball (you must have done that to be reading this),
 then cd to the untarred dir and do
 
-     :~$ sudo ./install.sh
+     :~$ ./install.sh
 
 -----------------------------
 
