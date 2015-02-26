@@ -14,36 +14,30 @@ TclUP was created by Anthony Baldwin / http://tonybaldwin.me
 
 Tcl8.5 or newer
 
-Get it here: http://sourceforge.net/projects/tcl/
-
-or
-
-We like ActiveTcl-8.6
-
-Get it here:
-
-http://www.activestate.com/
-
+On GNU/Linux systems you can generall install that with your favorite pkg manager (aptitude, yum, etc.)
 TclUP will require package ftp.
-On GNU/Linux systems If you don't have it, once Tcl8.5 is installed do
+Once Tcl8.5 is installed do
 
      $ teacup install ftp
 
 On Windows systems, if you install the ActiveStateTcl, you should be all set.
+Get it here:
+
+http://www.activestate.com/
+
+Then you can just click the tclup.tcl file to run it, make a shortcut to it on your desktop, etc.
 
 -----------------------------
 
-For installation, untar the tarball (you must have done that to be reading this),
+For installation on GNU/Linux, untar the tarball (you must have done that to be reading this),
 then cd to the untarred dir and do
 
      :~$ ./install.sh
 
 -----------------------------
 
-If you have complaints, call 1-800-YO-MOMS.
+If you have complaints, call 1-800-YO-MOMS
 
-Be well,
-Tony
 -----------------------------
 This program was written by Anthony Baldwin / http://tonybaldwin.me
 This program is free software; you can redistribute it and/or modify
